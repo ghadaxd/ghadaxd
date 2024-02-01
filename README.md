@@ -1,32 +1,32 @@
 # Ghada ☁️
 
-Frontend developer with two years and a half of developing, maintaining, and leading several projects in the education field.
-Full of awesome ideas, think creatively with an innovative mindset.
+Frontend developer with two years and a half of developing, maintaining, and leading several projects in the education field.<br />
+I think with an innovative entrepreneur mindset, I work with the principle “Nothing is impossible!”.
 
 ### Currently,
-I'm working on a project idea to make the gifting process easier! ✨
+I'm working on a project idea in the gifting field! ✨
 
 ### Skilled in,
 HTML, CSS, Javascript, React Native, React JS, and capable of creating responsive interfaces. 👌🏼
 
 ### Learning,
-1. How to create an amazing product and be an entrepreneur! 🚀
-2. Developing my skills to become an expert. 💪🏼
+1. How to build an amazing product with an innovative idea! 🚀
+2. More and more and sharpening my skills to become an expert. 💪🏼
 
 #
 
 مطورة واجهات أمامية، بخبرة سنتين ونصف في تطوير ودعم وقيادة عدد من المشاريع في مجال التعليم. <br />
-مع العديد من الأفكار المذهلة، أفكر بإبداع وبعقلية المبتكر. <br />
+أفكر بعقلية ريادي أعمال مبتكر، وأعمل بمبدأ "لا شيء مستحيل!".<br />
 
 ### حاليًا،
-أعمل على فكرة مشروع لتسهيل عملية الإهداء! ✨ <br />
+أعمل على فكرة مشروع في مجال الإهداء! ✨ <br />
 
 ### ماهرة في،
 في بناء واجهات متجاوبة مع مختلف الشاشات، ولدي معرفة في HTML, CSS, Javascript, React Native, React JS. <br />
 
 ### أتعلم،
-1. كيف أبني منتج مذهل وأكون رائدة أعمال! 🚀 <br />
-2. أطّور مهاراتي لأصبح شخص خبير. 💪🏼 <br />
+1. كيف أبني منتج مذهل وبفكرة مبتكرة! 🚀 <br />
+2. المزيد والمزيد وأصقل مهاراتي لأصبح شخص خبير. 💪🏼 <br />
 
 
 <br />
