@@ -4,7 +4,7 @@ Frontend developer with over two years of experience developing, maintaining, an
 Thinks with an innovative entrepreneur mindset, and works with the principle “Nothing is impossible!”.
 
 ### Currently,
-Working on a gifting solution with a brand-new idea that will make the gifting process vastly meaningful! ✨🚀
+Working on a gifting solution with a brand-new idea that makes the gifting process vastly meaningful! ✨🚀
 
 ### Skilled in,
 HTML, CSS, Javascript, React Native, React JS, and capable of creating responsive interfaces. 👌🏼
