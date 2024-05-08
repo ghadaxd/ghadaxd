@@ -1,4 +1,4 @@
-# Ghada ☁️
+# <div align="center">Ghada ☁️ غادة</div>
 
 Frontend developer with over two years of experience developing, maintaining, and leading several projects in the education field as a senior developer.<br />
 Thinks with an innovative entrepreneur mindset, and works with the principle “Nothing is impossible!”.
