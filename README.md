@@ -33,8 +33,7 @@ How to build an amazing product with an innovative idea! 🚀
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadaalaskar/)
 <br /><br />
 
-My CV:
-[GFA_CV-R.pdf](https://github.com/user-attachments/files/16643239/GFA_CV-R.pdf)
+CV: [Ghada_Alaskar](https://github.com/user-attachments/files/22877420/Ghada_Alaskar-CVR.pdf)
 
 <br />
 
